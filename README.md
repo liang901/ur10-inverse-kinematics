@@ -36,18 +36,19 @@ ur10-inverse-kinematics/
 │   └── data_generated.py
 ├── models/                # 已訓練的模型
 │   └── ik_model.h5(*)
-├── results/               # 結果展示(*)
+├── results/ (*)           # 結果展示
 ├── scripts/               # 訓練與評估程式
 │   ├── data_utils.py
 │   ├── evaluate_ik_model.py
 │   ├── model_utils.py
 │   ├── plot_utils.py
-│   └── train_ur10_ik.py
+│   └── train_ur10_ik.py   # 主程式
 ├── .gitignore
+├── LICENCE
 ├── README.md
 └── requirements.txt       # 環境建置需求
 
-有 (*) 標記處為執行 train_ur10_ik.py 後會被更新覆蓋的檔案
+(*) 標記處為執行 train_ur10_ik.py 後會被更新覆蓋的檔案
 ```
 
 ---
