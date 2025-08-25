@@ -74,13 +74,13 @@ models/ik_model.h5
 ## 📊 結果展示 (results)
 
 - Loss curve
-![Loss Curve](results/loss_curve.png)
+  ![Loss Curve](results/loss_curve.png)
 - 距離誤差分佈
-![Distance Error](results/distance_error_histogram.png)
+  ![Distance Error](results/distance_error_histogram.png)
 - 關節角度分佈
-![Joint Distribution Q4](results/q4_pred_distribution.png)
+  ![Joint Distribution Q4](results/q4_pred_distribution.png)
 - 3D 視覺化結果 (距離誤差向量)
-![Error Vectors](results/error_vectors.png)
+  ![Error Vectors](results/error_vectors.png)
 
 ---
 
