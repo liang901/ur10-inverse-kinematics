@@ -31,11 +31,11 @@ ur10-inverse-kinematics/
 │
 ├── data/                  # 訓練/驗證/測試資料
 │   ├── positions_dataset.csv
-│   └── test_predictions.csv(*)
+│   └── test_predictions.csv (*)
 ├── data_gen/              # 生成資料集程式
 │   └── data_generated.py
 ├── models/                # 已訓練的模型
-│   └── ik_model.h5(*)
+│   └── ik_model.h5 (*)
 ├── results/ (*)           # 結果展示
 ├── scripts/               # 訓練與評估程式
 │   ├── data_utils.py
