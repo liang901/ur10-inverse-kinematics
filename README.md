@@ -44,7 +44,7 @@ ur10-inverse-kinematics/
 │   ├── plot_utils.py
 │   └── train_ur10_ik.py   # 主程式
 ├── .gitignore
-├── LICENCE
+├── LICENSE
 ├── README.md
 └── requirements.txt       # 環境建置需求
 
